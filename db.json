@@ -1,0 +1,454 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/9/18349489/7f312dca3b0a2b780b1b663f4da2e9a5_o2_featured_v2.jpg",
+      "name": "Punjab Depot",
+      "rating": 2.9,
+      "dishes": "North Indian,Biryani...",
+      "cost": 250,
+      "city": "Bangalore",
+      "payment": "Cash"
+    },
+    {
+      "id": 2,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/1/47211/c9996dd70c88230268cb00d20a92b7cf_o2_featured_v2.jpg",
+      "name": "Domino's Pizza",
+      "rating": 3.8,
+      "dishes": "Pizza,Fast Food,Desserts..",
+      "cost": 350,
+      "city": "Mumbai",
+      "payment": "All"
+    },
+    {
+      "id": 3,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/5/45855/08c3c98e451b000f46e2726bec3333b6_o2_featured_v2.jpg",
+      "name": "Pizza Caprina",
+      "rating": 3.7,
+      "dishes": "Pizza,Pasta,Fast Food..",
+      "cost": 300,
+      "city": "Mumbai",
+      "payment": "Card"
+    },
+    {
+      "id": 4,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/2/18165882/57c2daa7e415cef17d54297d315da420_o2_featured_v2.jpg",
+      "name": "Charcoal Eats",
+      "rating": 3.9,
+      "dishes": "Rolls,Kebab,Biryani..",
+      "cost": 250,
+      "city": "Mumbai",
+      "payment": "Cash"
+    },
+    {
+      "id": 5,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/9/35079/c0ba9ec0f08684316b2552a8eb5a1ea8_o2_featured_v2.jpg",
+      "name": "McDonald's",
+      "rating": 4.5,
+      "dishes": "Burger,Fast Food,Beverages..",
+      "cost": 270,
+      "city": "Mumbai",
+      "payment": "All"
+    },
+    {
+      "id": 6,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/1/49781/9f2f843523d0e8b9ecd9ee9ee32c1c46_o2_featured_v2.jpg",
+      "name": "Burger King",
+      "rating": 4.2,
+      "dishes": "Burger,Street Food..",
+      "cost": 340,
+      "city": "Mumbai",
+      "payment": "Card"
+    },
+    {
+      "id": 7,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/5/32755/a8254716d7b9425c565f8f4a30081835_o2_featured_v2.jpg",
+      "name": "Shiv Sagar",
+      "rating": 3.8,
+      "dishes": "North Indian, Sandwich..",
+      "cost": 200,
+      "city": "Mumbai",
+      "payment": "Cash"
+    },
+    {
+      "id": 8,
+      "image": "https://b.zmtcdn.com/data/pictures/5/19515355/912289dc2a98be9dd3b4271fc9fcf249_o2_featured_v2.jpg",
+      "name": " Guru PaniPuri Bandra",
+      "rating": 3.7,
+      "dishes": "Street Food...",
+      "cost": 250,
+      "city": "Mumbai",
+      "payment": "Card"
+    },
+    {
+      "id": 9,
+      "image": "https://b.zmtcdn.com/data/pictures/5/32795/8a53a40d2dec5fb73ed17f74f8b3121d_o2_featured_v2.jpg",
+      "name": "Lucky Restaurant",
+      "rating": 1.4,
+      "dishes": "Biryani, North Indian..",
+      "cost": 260,
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": 10,
+      "image": "https://b.zmtcdn.com/data/pictures/0/34160/a2bdb4ce91c4de9ddbbfebf78e535c81_o2_featured_v2.jpg",
+      "name": "Elco",
+      "rating": 3.7,
+      "dishes": "Street Food, South Indian..",
+      "cost": 350,
+      "city": "Goa",
+      "payment": "Card"
+    },
+    {
+      "id": 12,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/3/19413973/0db7e2b32ac88054855fbccded60ba3d_o2_featured_v2.jpg",
+      "name": "Great Indian Khichdi",
+      "rating": 3.9,
+      "dishes": "Healthy Food, North Indian..",
+      "cost": 380,
+      "city": "Goa",
+      "payment": "Cash"
+    },
+    {
+      "id": 13,
+      "image": "https://b.zmtcdn.com/data/pictures/0/20030170/05a3ee495861a1a66c988fc93ef22fd6_o2_featured_v2.jpg",
+      "name": "Spukies",
+      "rating": 2.2,
+      "dishes": "North Indian, Chinese..",
+      "cost": 250,
+      "city": "Goa",
+      "payment": "All"
+    },
+    {
+      "id": 14,
+      "image": "https://b.zmtcdn.com/data/pictures/3/37683/630013b5f8d3288156bc8f8f2b33f46a_o2_featured_v2.jpg",
+      "name": "Shobhaa Only Veg",
+      "rating": 3.8,
+      "dishes": "North Indian, Chinese..",
+      "cost": 400,
+      "city": "Goa",
+      "payment": "All"
+    },
+    {
+      "id": 15,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/39030/966af8b7097be24aa540c4921e6dfe3f_o2_featured_v2.jpg",
+      "name": "Oye Kake",
+      "rating": 3.5,
+      "dishes": "North Indian, Street Food..",
+      "cost": 450,
+      "city": "Goa",
+      "payment": "Card"
+    },
+    {
+      "id": 16,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/6/48736/1f4e9bcf675c6c3e8e306044d9a1c2f5_o2_featured_v2.jpg",
+      "name": "Burma Burma",
+      "rating": 3.7,
+      "dishes": "Street Food...",
+      "cost": 240,
+      "city": "Goa",
+      "payment": "All"
+    },
+    {
+      "id": 17,
+      "image": "https://b.zmtcdn.com/data/pictures/8/19627838/339bb9d3758a6078c7f8a7db996b0854_o2_featured_v2.jpg",
+      "name": "Shree Pav Bhaji",
+      "rating": 4.1,
+      "dishes": "Fast Food, North Indian..",
+      "cost": 200,
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": 18,
+      "image": "https://b.zmtcdn.com/data/pictures/7/35677/356b71108776b6319c8a4c79f16ef990_o2_featured_v2.jpg",
+      "name": "Manohar Pure Veg",
+      "rating": 4.5,
+      "dishes": "Chinese, Fast Food..",
+      "cost": 200,
+      "city": "Pune",
+      "payment": "Cash"
+    },
+    {
+      "id": 19,
+      "image": "https://b.zmtcdn.com/data/pictures/8/19619508/988e09c3174b86de54ef340db55daf13_o2_featured_v2.jpg",
+      "name": "Ohh Daily",
+      "rating": 4.7,
+      "dishes": "North Indian, Mughlai..",
+      "cost": 260,
+      "city": "Bangalore",
+      "payment": "All"
+    },
+    {
+      "id": 20,
+      "image": "https://b.zmtcdn.com/data/pictures/6/49996/8ae32e69096a682f094d9e418df35298_o2_featured_v2.jpg",
+      "name": "Bharat Restaurant",
+      "rating": 3.5,
+      "dishes": "Kirti Mahal Legacy..",
+      "cost": 150,
+      "city": "Bangalore",
+      "payment": "Card"
+    },
+    {
+      "id": "eIdLll2TmnXe7Lzi8Ureu",
+      "name": "Abhi's Kitchen",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/snmmme6sxl8e7g4dswj4",
+      "cost": "150",
+      "rating": "4.5",
+      "dishes": "Misal ",
+      "city": "Bangalore",
+      "payment": "cash"
+    },
+    {
+      "id": "eKnh-g-Rr6iizTX4MqgS5",
+      "name": "Meghana's Kitchen",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cra26vuckkvz0plrxcmr",
+      "cost": "250",
+      "rating": "4.9",
+      "dishes": "Veg Thali",
+      "city": "Bangalore",
+      "payment": "all"
+    },
+    {
+      "id": "o779CP_4KYEcb2LrkvmWx",
+      "name": "Hotel Bazigar",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ji2zfofslaxkhrbdsh3q",
+      "cost": "300",
+      "rating": "4.9",
+      "dishes": "Biryani",
+      "city": "Bangalore",
+      "payment": "Card"
+    },
+    {
+      "id": "rBeIRmtu1Q7abRd56mrbD",
+      "name": "Balaji Foods",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nzcxrnbunyygw8wk2ng0",
+      "cost": "220",
+      "rating": "3.9",
+      "dishes": "South Indian",
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": "5x9ulUxEZ0iwRzeMkm8Gm",
+      "name": "Preeti' Kitchen",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/uuth9lpatcn1w8h5lhkf",
+      "cost": "150",
+      "rating": "3.8",
+      "dishes": "Snacks",
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": "kYbBNyFnncpxvcmLUsBZP",
+      "name": "MI HI KOLI",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zsnajbevj0m107kya94j",
+      "cost": "190",
+      "rating": "3.2",
+      "dishes": "Fishe Food",
+      "city": "Pune",
+      "payment": "Card"
+    },
+    {
+      "id": "leMAERHGXwFC5PwvS0PvC",
+      "name": "Sharmaji's Food",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/sxplbutr0ilqycdg43gz",
+      "cost": "200",
+      "rating": "3.5",
+      "dishes": "Snacks",
+      "city": "Pune",
+      "payment": "Cash"
+    },
+    {
+      "id": "Dr4cJqSWr_Rc6-m_t4d-u",
+      "name": "Shubham's Kitchen",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/exlpcaclxqylo9ih0xjb",
+      "cost": "250",
+      "rating": "4.2",
+      "dishes": "Indian Dishes",
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": "Oj_HJVrFEmlRCVcHr8sKU",
+      "name": "Kolhapuri",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dhfhimxobhmp6mlqgjit",
+      "cost": "220",
+      "rating": "4.5",
+      "dishes": "Indian Dishes",
+      "city": "Goa",
+      "payment": "All"
+    },
+    {
+      "id": "8Mmr4DfMxWCfyLIMQbnXl",
+      "name": "CakeRoma",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/orfpo9rf7agtith3tldd",
+      "cost": "200",
+      "rating": "3.9",
+      "dishes": "Cakes...",
+      "city": "Goa",
+      "payment": "Card"
+    },
+    {
+      "id": "SptlyL5wvWseLw_orCM6E",
+      "name": "Maizo",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lrv5yeitr1zune9yppw7",
+      "cost": "400",
+      "rating": "4.8",
+      "dishes": "Chicken Dishes",
+      "city": "Goa",
+      "payment": "All"
+    },
+    {
+      "id": "JBoxUhV2CSc0Muwc-akTH",
+      "name": "Canteen Central ",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gfgy4gxq23y74bhg2v1l",
+      "cost": "350",
+      "rating": "4.6",
+      "dishes": "Pizza",
+      "city": "Goa",
+      "payment": "All"
+    },
+    {
+      "id": "C1-LB65gMEWiZ-ijOT17Z",
+      "name": "EatFit",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f7h60elcbc6zf39sjhjb",
+      "cost": "400",
+      "rating": "3.8",
+      "dishes": "Fast Food",
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": "xeN5GPPB9Hr5MCyWy34Me",
+      "name": "Lunch Box",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/chs0jbyj2osyqumr1wiu",
+      "cost": "180",
+      "rating": "4.5",
+      "dishes": "Indian Food",
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": "gulXv0pVA5WQi2rTptOec",
+      "name": "Hotel Yatrik",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xbxqysc8xn3joity8rky",
+      "cost": "150",
+      "rating": "4.1",
+      "dishes": "Snacks",
+      "city": "Pune",
+      "payment": "All"
+    },
+    {
+      "id": "a6v9Toy_I1V2J98Y7qkEq",
+      "name": "Hotel Vaishu",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cfnpphtf9xdp1tmfuzlt",
+      "cost": "200",
+      "rating": "4.8",
+      "dishes": "Indian Food",
+      "city": "Pune",
+      "payment": "Cash"
+    },
+    {
+      "id": "dAmd95wvmua-H9Vmt4lUQ",
+      "name": "Louis Burger",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/19797028/2d1bdd0b49bbec38e610b1e78178c38f_o2_featured_v2.jpg?output-format=webp",
+      "cost": "500",
+      "rating": "4.8",
+      "dishes": "Fast Food",
+      "city": "Mumbai",
+      "payment": "All"
+    },
+    {
+      "id": "ymCuM2qdzLWcU0eQCMdfc",
+      "name": "The Bawa Kitchen",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/1/18721181/b94631ba524b91a30bd5d699f29188d8_featured_v2.jpg?output-format=webp",
+      "cost": "250",
+      "rating": "4.7",
+      "dishes": "Biryani's",
+      "city": "Mumbai",
+      "payment": "Card"
+    },
+    {
+      "id": "UJoAq3CIoeQ2mF8G56Nr5",
+      "name": "The Kitchen Next Door",
+      "image": "https://b.zmtcdn.com/data/pictures/1/19531341/fd0dcfb630771d83304c16f7afd6e359_featured_v2.png?output-format=webp",
+      "cost": "220",
+      "rating": "4.2",
+      "dishes": "Chinese",
+      "city": "Mumbai",
+      "payment": "Cash"
+    },
+    {
+      "id": "aIjRv0PcDEnNnIqnIViI6",
+      "name": "The Roll Company",
+      "image": "https://b.zmtcdn.com/data/pictures/9/18545859/86441af891eb7ca702d1fc17bb7bbb82_featured_v2.jpg",
+      "cost": "400",
+      "rating": "4.5",
+      "dishes": "Rolls",
+      "city": "Bangalore",
+      "payment": "All"
+    },
+    {
+      "id": "PfWZFaCuG_nzHwv-EydKW",
+      "name": "Red Chinese & Momos",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ekccymfybraivhngtoei",
+      "cost": "180",
+      "rating": "3.6",
+      "dishes": "Chinese,Momos",
+      "city": "Bangalore",
+      "payment": "All"
+    },
+    {
+      "id": "vqrIP2fv1sSOfdWOLOCOm",
+      "name": "Hotel MemSahab",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ed2ftk6mqtqzzib07t8y",
+      "cost": "140",
+      "rating": "3.5",
+      "dishes": "Indian Food",
+      "city": "Bangalore",
+      "payment": "Cash"
+    },
+    {
+      "id": "kZnfxg1rOKrspucWGfnG7",
+      "name": "24*7 KITCHEN",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lxj6schctq6i3qh3pmbs",
+      "cost": "210",
+      "rating": "3.9",
+      "dishes": "Street Food",
+      "city": "Bangalore",
+      "payment": "Card"
+    },
+    {
+      "id": "902gSMtIrMB12SADcGzSk",
+      "name": "Rushi's Restro",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cgf7qsoqsvfwletamxt4",
+      "cost": "180",
+      "rating": "4.8",
+      "dishes": "Fast Food",
+      "city": "Bangalore",
+      "payment": "All"
+    },
+    {
+      "id": "syyyFTPxSHQowlfinXMAB",
+      "name": "Malhar Khanaval",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vheztqpfacvymvszewna",
+      "cost": "200",
+      "rating": "3.9",
+      "dishes": "Indian Food",
+      "payment": "All",
+      "city": "Pune"
+    },
+    {
+      "id": "0lCFtUTunGRn3BcMD7_Og",
+      "name": "Alim's Kitchen",
+      "image": "https://b.zmtcdn.com/data/pictures/5/19298655/f71be33dea67ad94d3ede899bb698fcd_o2_featured_v2.jpeg?output-format=webp",
+      "cost": "200",
+      "rating": "4.8",
+      "dishes": "Indian Dishes",
+      "payment": "All",
+      "city": "Lucknow"
+    }
+  ]
+}
